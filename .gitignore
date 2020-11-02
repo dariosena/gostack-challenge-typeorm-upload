@@ -3,6 +3,7 @@
 node_modules/
 build/
 temp/
+.history/
 
 tmp/*
 !tmp/.gitkeep
